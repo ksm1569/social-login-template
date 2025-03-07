@@ -1,4 +1,6 @@
 # OAuth2 Social Login Template
+![스크린샷 2025-03-07 오후 5 16 54](https://github.com/user-attachments/assets/4636ed2c-b3e4-421f-a4e2-f0ecbd3ff1ec)
+
 ![image](https://github.com/ksm1569/social-login-template/assets/34292113/51eaf7b6-db94-44cb-8f9a-d5195ffb7ca0)
 
 ![image](https://github.com/ksm1569/social-login-template/assets/34292113/4c88f218-0508-42ac-97c9-21bbb3858f03)
